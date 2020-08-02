@@ -5,3 +5,5 @@ first
 practice for stash
 
 changes made
+
+practice of fetch and pull from remote to laocal
