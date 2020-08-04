@@ -1,6 +1,6 @@
 hi everyone
 
-<<<<<<< Updated upstream
+
 
 first commit
 
@@ -14,8 +14,8 @@ practice of fetch and pull from remote to local
 
 Jan to December 
 
-=======
-first
 
-Jan to December 
->>>>>>> Stashed changes
+
+
+
+
