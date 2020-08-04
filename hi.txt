@@ -1,5 +1,7 @@
 hi everyone
 
+<<<<<<< Updated upstream
+
 first commit
 
 practice for stash
@@ -7,3 +9,13 @@ practice for stash
 changes made
 
 practice of fetch and pull from remote to local
+
+
+
+Jan to December 
+
+=======
+first
+
+Jan to December 
+>>>>>>> Stashed changes
