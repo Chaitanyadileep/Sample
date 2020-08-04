@@ -3,3 +3,11 @@ hello everyone
 second commit
 
 Git is a software tool
+
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
