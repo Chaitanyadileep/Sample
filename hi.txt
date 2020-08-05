@@ -1,21 +1,5 @@
 hi everyone
 
+first 
 
-
-first commit
-
-practice for stash
-
-changes made
-
-practice of fetch and pull from remote to local
-
-
-
-Jan to December 
-
-
-
-
-
-
+Jan to Dec
